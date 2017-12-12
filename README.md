@@ -1,2 +1,4 @@
 # twitch-overlay-audio
-Audio (and image/text) overlay for twitch overlays
+Audio Overlay for Twitch - Plays a short sound file (and will show text/images if you want)
+
+Requires `twitch-overlay`: https://github.com/bdickason/twitch-overlay
